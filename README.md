@@ -1,13 +1,8 @@
 # Zideo
 
 A basic android Video Call app using agora sdk as per the documetation mentioned 
-
   
-## Demo Video
-
-<iframe width="386" height="686" src="https://www.youtube.com/embed/lZEh63yi2Z0" title="zvideo demo A basic android Video Call app using agora sdk as per the documetation mentioned" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
-
+## Demo Video [Click here to watch the video](https://www.youtube.com/watch?v=lZEh63yi2Z0)
 
 
 - Download and install the app from the [Here](https://drive.google.com/uc?id=145k6zTyYmGdSenz2UzXI3x3Bo2C9w2EG&export=download).
